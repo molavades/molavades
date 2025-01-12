@@ -1,16 +1,13 @@
  <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Snehal Molavade 👋</h1>
 
-Welcome to my portfolio! I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
+Welcome to my portfolio!
+
+I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
 
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I am pursuing a Master’s in Information Systems at Northeastern University[__Northeastern University - College of Engineering__](https://coe.northeastern.edu/) Expected to graduate in May 2025.
-
-I have *4+ years* of experience building and deploying __machine learning__ and __deep learning models__. 
-
-Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
-
+I am pursuing a Master’s in Information Systems at Northeastern University [__Northeastern University - College of Engineering__](https://coe.northeastern.edu/) Expected to graduate in May 2025.
 
 A  ETL Developer/Data Engineer with **5 years** of IT experience, specializing in ETL design, development, and data integration solutions for Finance and Healthcare domains. I have a strong track record of building scalable data pipelines and implementing robust data warehousing solutions.
 
@@ -70,8 +67,7 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 * *GitLab CI/CD*
 
 * 
-![image](https://github.com/user-attachments/assets/c4b32a61-719e-473c-a524-6528c9f1b352)
-![image](https://github.com/user-attachments/assets/f9ca4c8f-c309-49fb-bff0-a838662da184)
+![image](https://github.com/user-attachments/assets/de16dcb3-9571-4774-bd18-d4289af30289)
 
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
