@@ -115,7 +115,7 @@ These valuable tools and techniques have empowered me to successfully develop th
 &emsp;&emsp; 🏫 [__Sadguru Gadage Maharaj College, Karad__](http://sgm.edu.in/) - *High School*
 
 ---
-## 🎬📠 My GitHub Summary (Acedemic Projects): 
+# 🎬📠 My Acedemic Projects: 
 
 ## 💾⚙️ Data Engineering & Warehousing
 Projects focused on building ETL pipelines, data warehouses, and enabling data-driven insights.
