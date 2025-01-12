@@ -98,7 +98,7 @@ These valuable tools and techniques have empowered me to successfully develop th
 ## 🖥 My Work Experience 
 
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Apllication Processor__] | [__Northeastern University__](http://www.northeastern.edu/) [*Octomber 2024 - Present*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Apllication Processor__] | [__Northeastern University__](http://www.northeastern.edu/) [*October 2024 - Present*]
 
 &emsp;&emsp; 🏢👨‍💻 [__Data Scientist/Engineer__] | [__John Deere__](https://www.deere.co.in/en/index.html) [*Feb 2023 - July 2023*]
 
