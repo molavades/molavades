@@ -70,8 +70,7 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 
 ![image](https://github.com/user-attachments/assets/6c8b8aee-4fe9-402d-a21d-f80663c592b9)
 
-
-<img src="https://github.com/your-username/your-repository/blob/main/image.png" alt="Creativity Quote" width="600"/>
+<img src="https://github.com/user-attachments/assets/6c8b8aee-4fe9-402d-a21d-f80663c592b9" alt="Image" width="600"/>
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
