@@ -123,6 +123,87 @@ These valuable tools and techniques have empowered me to successfully develop an
 [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  
 
 ---
+🚴‍♂️ [__Washington Bike Demand Prediction__](https://github.com/suhasmaddali/Washington-Bike-Demand-Prediction) 
 
-## 🎬📠 My GitHub Summary: 
+* In this project, the demand for rental bikes was predicted using different machine learning and deep learning algorithms.
+*  Moreover, some of the useful features were __visualized__.
+*  Dependencies between features were highlighted and a __correlation matrix__ was plotted to get an understanding of the relationship between features.
+*  Subsequently, machine learning predictions were executed to ensure accurate outputs for the corresponding test set.
 
+<hr style="border:0.01px solid blue">
+## 🎬📠 My GitHub Summary(Acedemic Projects): 
+
+## 💾⚙️ Data Engineering & Warehousing
+Projects focused on building ETL pipelines, data warehouses, and enabling data-driven insights.
+
+🏎️ [**Motor Vehicle Collisions Data Warehouse**](https://github.com/molavades/Motor-Vehicle-Collisions-Crashes-Data-Warehouse-2023)  
+* Designed a robust data warehouse to analyze motor vehicle collisions across major cities.  
+* Built OLAP-based solutions for traffic pattern analysis and road safety improvements.
+
+🍲 [**Food Inspection Data Warehouse**](https://github.com/molavades/Food-Inspection-Data-Warehouse-2023)  
+* Built a data warehouse to analyze food safety inspection outcomes and compliance trends.  
+* Enabled regulatory agencies and businesses to make data-driven improvements with visual dashboards.
+
+## 🤖⚙️ My Machine Learning Projects
+## 🗣📣 My Natural Language Processing (NLP) projects
+## 👀👁 My Computer Vision Projects
+# 🚙 [__3D Lane Prediction and Object Detection__](https://github.com/molavades/3D-Lane-Prediction-and-Object-Detection)
+
+* In this project, 3D lane predictions and object detection models were implemented for autonomous driving. Tasks include lane topology prediction, object detection in merged views, and 3D centerline prediction.
+* Models like MLP, CNN, YOLO, and Vision Transformers were employed to predict lane adjacency and detect objects from camera views, significantly enhancing accuracy.
+* Evaluated using Frechet Distance and Chamfer Distance metrics, the results provide high-precision predictions for advancing self-driving technology.
+
+<hr style="border:0.01px solid blue">
+
+# 🤖 [__Intelligent Job Search Assistant__](https://github.com/molavades/Intelligent-Job-Search-Assistant)
+
+* This intelligent assistant aggregates job listings using the Google SERP API and provides AI-based feedback on resumes and cover letters to improve job application outcomes.
+* Programmed tools like LangChain and OpenAI to offer personalized suggestions and track job applications in real-time with Snowflake and Tableau.
+* Accomplished seamless job search management using modern cloud tools like AWS S3, delivering an efficient solution for job seekers.
+
+<hr style="border:0.01px solid blue">
+
+# 💬 [__Multilingual Language Embeddings and Chatbot Development__](https://github.com/molavades/Multilingual-Language-Embeddings-and-Chatbot-Development)
+
+* This project explores training multilingual embeddings using Word2Vec, RNNs, and DNNs to develop a chatbot capable of contextually accurate responses in multiple languages.
+* Employed RNN-based embeddings to improve sequential understanding, achieving superior performance over traditional Word2Vec models.
+* Analyzed embedding effectiveness through tasks like word similarity, analogy tests, and chatbot response accuracy, achieving state-of-the-art results in multilingual chatbot development.
+
+<hr style="border:0.01px solid blue">
+
+# 📄 [__Chat with PDF Multimodal RAG__](https://github.com/molavades/Chat-with-PDF-Multimodal-RAG)
+
+* This Retrieval-Augmented Generation (RAG)-based application allows users to interactively explore CFA publications, enabling Q&A functionality with multi-modal data retrieval.
+* Built with Streamlit and FastAPI, the application integrates Snowflake and Chroma DB for storage, automating content extraction and indexing research notes.
+* Achieved comprehensive analysis through real-time document summaries and enhanced trustworthiness of responses using Cleanlabs.
+
+<hr style="border:0.01px solid blue">
+
+
+
+<hr style="border:0.01px solid blue">
+
+# 📊 [__IPL Prediction Model__](https://github.com/molavades/IPL-Prediction-Model-MatchPredictor-2023)
+
+* In this machine learning project, IPL match outcomes are predicted based on features such as player performance, team composition, and historical statistics.
+* Most of the project includes visualizations followed by model predictions using machine learning and deep learning algorithms.
+* Accomplished a system where cricket analysts can reliably forecast match results and provide actionable insights.
+
+<hr style="border:0.01px solid blue">
+
+
+# 🍲 [__Food Inspection Data Warehouse__](https://github.com/molavades/Food-Inspection-Data-Warehouse-2023)
+
+* Built a data warehouse to analyze food inspection results, integrating data from multiple sources for compliance and trend analysis.
+* Employed OLAP cubes for faster reporting and detailed dashboards to visualize inspection outcomes and compliance statistics.
+* Provides businesses and regulators with tools to ensure better food safety and operational efficiency.
+
+<hr style="border:0.01px solid blue">
+
+# 🎥 [__Movie Story Book Cine-Narrative__](https://github.com/molavades/Movie_Story_Book-CineNarrative-2023)
+
+* A natural language processing project that creates cine-narrative storybooks by analyzing movie scripts.
+* Used sentiment analysis, topic modeling, and sequence generation to provide storytelling insights for scriptwriters and filmmakers.
+* Delivered a tool for enhancing narrative refinement and understanding plot dynamics.
+
+<hr style="border:0.01px solid blue">
