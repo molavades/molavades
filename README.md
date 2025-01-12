@@ -110,7 +110,7 @@ These valuable tools and techniques have empowered me to successfully develop th
 
 &emsp;&emsp; 🏫 [__Northeastern University (College of Engineering)__]((http://www.northeastern.edu/) - *Masters in Information Systems*
 
-&emsp;&emsp; 🏫 [__Dr. Daulatrao Aher Engineering College, Karad__](https://dacoe.ac.in/) - *B.Engg in Mechanical Engineering*
+&emsp;&emsp; 🏫 [__Shivaji University (Dr. Daulatrao Aher Engineering College, Karad)__](https://dacoe.ac.in/) - *B.Engg in Mechanical Engineering*
 
 &emsp;&emsp; 🏫 [__Sadguru Gadage Maharaj College, Karad__](http://sgm.edu.in/) - *High School*
 
