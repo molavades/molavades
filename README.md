@@ -5,8 +5,6 @@ Welcome to my portfolio!
 I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
 
 ![image](https://github.com/user-attachments/assets/2dff389a-0fee-493c-ab0c-334e2903548d)
-<img src="https://github.com/user-attachments/assets/2dff389a-0fee-493c-ab0c-334e2903548d" alt="image" width="500" height="300">
-
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
