@@ -9,11 +9,11 @@ I am a passionate **AI** and **Data Engineer** with expertise in building scalab
 
 I am pursuing a Master’s in Information Systems at Northeastern University [__Northeastern University - College of Engineering__](https://coe.northeastern.edu/) Expected to graduate in May 2025.
 
-A  ETL Developer/Data Engineer with **5 years** of IT experience, specializing in ETL design, development, and data integration solutions for Finance and Healthcare domains. I have a strong track record of building scalable data pipelines and implementing robust data warehousing solutions.
+A  ETL Developer/Data Engineer with **5 years** of IT experience, specializing in **ETL design, development, and data integration** solutions for Finance and Healthcare domains. 
 
-I have also contributed to the development of Generative AI solutions and large language models (LLMs), creating interactive AI assistants to enhance productivity. 
+I have also contributed to the development of Generative AI solutions and **large language models (LLMs)**, creating interactive AI assistants to enhance productivity. 
 
-I am passionate about exploring innovative solutions, accepting new challenges, and utilizing data-driven approaches to solve complex problems. If you're looking for someone with a keen eye for detail, technical expertise, and a strong commitment to driving success through data, feel free to connect with me.
+I am passionate about exploring innovative solutions, accepting new challenges, and utilizing data-driven approaches to solve complex problems. 
 
 🔭 Below are some of the companies I have worked as a data scientist/Engineer and a Software engineer:
 
