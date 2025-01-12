@@ -5,6 +5,10 @@ Welcome to my portfolio!
 I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
 
 
+## 📽️ Portfolio Demo
+
+[![Watch the Demo](https://via.placeholder.com/800x450.png?text=Click+to+Watch+Demo)](videos/vidu-general-4-2025-01-12T18_44_39Z.mp4)
+
 ![image](https://github.com/user-attachments/assets/2dff389a-0fee-493c-ab0c-334e2903548d)
 
 
