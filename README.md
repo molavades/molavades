@@ -158,4 +158,19 @@ Projects involving natural language processing, conversational AI, and multiling
 🤖 [**Intelligent Job Search Assistant**](https://github.com/molavades/Intelligent-Job-Search-Assistant)  
 * Built a system to simplify job searching by aggregating listings, optimizing resumes, and providing real-time application tracking.  
 * Leveraged AI, Snowflake, AWS, and LangChain to offer personalized job recommendations and actionable feedback.
+  
+---
+## 🎬🔚 Summary
 
+Thank you for exploring my GitHub portfolio! Through these projects, I have demonstrated expertise in solving complex problems across various domains, including **Machine Learning & AI**, **Data Engineering & Warehousing**, and **NLP & Chatbot Development**. My work reflects a strong commitment to leveraging cutting-edge technologies to deliver impactful and scalable solutions.
+
+### Highlights:
+- 🚀 Innovated with state-of-the-art algorithms like Vision Transformers, YOLO, and RNNs.
+- ⚙️ Built robust pipelines for data processing and analytics using tools like Apache Airflow, Snowflake, and AWS.
+- 💬 Developed conversational AI systems with multilingual capabilities and advanced language embeddings.
+- 📊 Created intuitive dashboards and reports to empower data-driven decision-making.
+
+Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
+
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/snehal-molavade/__
+📫 __Email:__ __molavade.s@northeastern.edu__
