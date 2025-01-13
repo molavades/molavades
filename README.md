@@ -4,8 +4,6 @@ Welcome to my portfolio!
 
 I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
 
-![image](https://github.com/user-attachments/assets/2dff389a-0fee-493c-ab0c-334e2903548d)
-
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I am pursuing a Master’s in Information Systems at Northeastern University [__Northeastern University - College of Engineering__](https://coe.northeastern.edu/) Expected to graduate in May 2025.
