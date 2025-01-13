@@ -1,4 +1,4 @@
- <h1 align = "center"> />Hi there, I'm Snehal Molavade 👋</h1>
+ <h1 align = "center" />Hi there, I'm Snehal Molavade 👋</h1>
 
 Welcome to my portfolio!
 
