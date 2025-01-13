@@ -1,4 +1,4 @@
- <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Snehal Molavade 👋</h1>
+ <h1 align = "center"> />Hi there, I'm Snehal Molavade 👋</h1>
 
 Welcome to my portfolio!
 
