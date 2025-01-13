@@ -130,7 +130,7 @@ Projects focused on building ETL pipelines, data warehouses, and enabling data-d
 ## 🤖⚙️ My Machine Learning Projects
 Projects utilizing machine learning and deep learning techniques for predictive modeling and computer vision.
 
-🚙 [**3D Lane Prediction and Object Detection**](https://github.com/molavades/3D-Lane-Prediction-and-Object-Detection)  
+🚙 [**3D Lane Prediction and Object Detection**](https://github.com/molavades/3D-Lane-Prediction-and-Object-Detection-2024)  
 * Developed models for 3D lane topology prediction, object detection, and centerline regression using CNNs, YOLO, and Vision Transformers.  
 * Evaluated results with Frechet and Chamfer Distances for high-precision predictions.
 
