@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!
 
-I am a passionate **AI** and **Data Engineer** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **machine learning** and **big data** technologies. This repository showcases my academic and professional projects.
+I am a passionate **Data Engineer** and **AI** with expertise in building scalable data pipelines, developing intelligent systems, and solving complex problems using **big data** technologies and **machine learning**. This repository showcases my academic and professional projects.
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
