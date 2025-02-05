@@ -107,7 +107,7 @@ These valuable tools and techniques have empowered me to successfully develop th
 
 ## 🖥 My Education 
 
-&emsp;&emsp; 🏫 [__Northeastern University (College of Engineering)__]((http://www.northeastern.edu/) - *Masters in Information Systems*
+&emsp;&emsp; 🏫 [__Northeastern University (College of Engineering)__](http://www.northeastern.edu/) - *Masters in Information Systems*
 
 &emsp;&emsp; 🏫 [__Shivaji University (Dr. Daulatrao Aher Engineering College, Karad)__](https://dacoe.ac.in/) - *B.Engg in Mechanical Engineering*
 
