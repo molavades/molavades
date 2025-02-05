@@ -20,7 +20,7 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 * *CGI Group*
 * *Sandat Web Solution*
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+🔭 I've used different Machine Learning and Deep Learning models in acedemic projects. Below are some used models:
 
 * *Linear Regression*
 * *Logistic Regression*
