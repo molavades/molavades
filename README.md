@@ -14,13 +14,27 @@ I have also contributed to the development of Generative AI solutions and **larg
 
 I am passionate about exploring innovative solutions, accepting new challenges, and utilizing data-driven approaches to solve complex problems. 
 
-🔭 Below are some of the companies I have worked as a data scientist/Engineer and a Software engineer:
+🔭 Below are some of the companies I have worked as a **Data Engineer, Software engineer and ETL Developer**:
 
 * *John Deere*
 * *CGI Group*
 * *Sandat Web Solution*
 
-🔭 I've used different Machine Learning and Deep Learning models in acedemic projects. Below are some used models:
+🔧 Data Engineering & Cloud Technologies:
+
+* *Apache Spark (PySpark, Spark SQL)*
+* *Apache Airflow (Workflow Orchestration)*
+* *Snowflake (Data Warehousing)*
+* *AWS (S3, Glue, Redshift, Lambda, EC2, IAM, EventBridge)*
+* *Google Cloud Platform (BigQuery, Cloud Functions, Vertex AI)*
+* *Azure Data Services (Data Lake, Synapse, Databricks)*
+* *ETL Pipelines (Batch & Streaming Processing)*
+* *Data Modeling (Star Schema, Dimensional Modeling)*
+* *SQL (PostgreSQL, MySQL, MSSQL, Redshift SQL, Snowflake SQL)*
+* *Data Pipeline Optimization & Performance Tuning*
+
+
+🔭 I've used different Machine Learning and Deep Learning models in **Acedemic projects**. Below are some used models:
 
 * *Linear Regression*
 * *Logistic Regression*
@@ -36,14 +50,8 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 * *XGBoost*
 * *Long Short-Term Memory (LSTM)*
 
-🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
 
-* *Auto-Regressive (AR) Model*
-* *Auto-Regressive Moving Averages (ARMA) Model*
-* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
-* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
-
-🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+🔭Generative AI & LLM Integration:
 
 * *Langchain*
 * *LangGraph*
@@ -55,13 +63,12 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
 
-🔭 Here are some of the skillsets in regards to __DevOps__ technologies:
+🔭 DevOps & CI/CD for Data Engineering:
 
 * *Docker*
 * *Docker-Compose*
 * *Linux*
 * *Windows Subsystem for Linux (WSL)*
-* *Travis CI*
 * *Ubuntu*
 * *GitLab CI/CD*
 
