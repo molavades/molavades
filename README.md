@@ -10,8 +10,6 @@ I am pursuing a Master’s in Information Systems at Northeastern University [__
 
 A  ETL Developer/Data Engineer with **5 years** of IT experience, specializing in **ETL design, development, and data integration** solutions for Finance and Healthcare domains. 
 
-I have also contributed to the development of Generative AI solutions and **large language models (LLMs)**, creating interactive AI assistants to enhance productivity. 
-
 I am passionate about exploring innovative solutions, accepting new challenges, and utilizing data-driven approaches to solve complex problems. 
 
 🔭 Below are some of the companies I have worked as a **Data Engineer, Software engineer and ETL Developer**:
