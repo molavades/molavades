@@ -20,7 +20,7 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 
 🔧 Data Engineering & Cloud Technologies:
 
-* *Azure Data Factory
+* *Azure Data Factory*
 * *Apache Spark (PySpark, Spark SQL)*
 * *Apache Airflow (Workflow Orchestration)*
 * *Snowflake (Data Warehousing)*
