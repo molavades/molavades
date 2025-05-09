@@ -109,7 +109,7 @@ These valuable tools and techniques have empowered me to successfully develop th
 
 &emsp;&emsp; 🧪👨‍🔬 [__Software Engineer__] | [__CGI__](https://www.cgi.com/india/en) [*April 2021 - December 2022*]
  
-&emsp;&emsp; 🤖🦾 [__Data Engineer__] | [__sandat Web Solution__](https://sandatservices.com/) [*August 2017 - April 2021*]
+&emsp;&emsp; 🤖🦾 [__ETL_Developer__] | [__sandat Web Solution__](https://sandatservices.com/) [*August 2017 - April 2021*]
 
 ## 🖥 My Education 
 
