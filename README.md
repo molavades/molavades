@@ -6,7 +6,7 @@ I am a passionate **Data Engineer** and **AI** with expertise in building scalab
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I am pursuing a Master’s in Information Systems at Northeastern University [__Northeastern University - College of Engineering__](https://coe.northeastern.edu/) Expected to graduate in May 2025.
+I recently graduated (May 2025) with an M.S. in Information Systems from Northeastern University [__Northeastern University - College of Engineering__](https://coe.northeastern.edu/)
 
 A  ETL Developer/Data Engineer with **5 years** of IT experience, specializing in **ETL design, development, and data integration** solutions for Finance and Healthcare domains. 
 
