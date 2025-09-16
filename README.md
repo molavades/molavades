@@ -71,8 +71,6 @@ I am passionate about exploring innovative solutions, accepting new challenges, 
 * *Ubuntu*
 * *GitLab CI/CD*
 
-![cropped_image](https://github.com/user-attachments/assets/86ef01eb-51b1-4707-980a-abacdc91c045)
-
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
 These valuable tools and techniques have empowered me to successfully develop the projects.
