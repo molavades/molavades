@@ -1,96 +1,86 @@
-<h1 align="center">👋 Hi, I'm Snehal Molavade</h1>
+<div align="center">
 
-Welcome to my portfolio!
+# Hi, I'm Snehal Molavade 👋
 
-I'm a **Data Engineer** with a passion for **AI**, **cloud data systems**, and **intelligent automation**.  
-I design and optimize scalable **data pipelines**, architect **multi-cloud data platforms**, and experiment with **machine learning** and **LLMs** to turn raw data into actionable insights.
+### Generative AI Engineer | Senior Data Engineer | Cloud Data Platforms
 
----
+**Building enterprise RAG, agentic AI, and scalable cloud data platforms.**
 
-### 👨‍💻 About Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-molavade/)
 
-🎓 **M.S. in Information Systems (May 2025)** — [Northeastern University – College of Engineering](https://coe.northeastern.edu/)  
-💼 5+ years of professional experience as an **ETL Developer**, **Software Engineer**, and **Data Engineer**, spanning **healthcare**, **finance**, and **IoT** domains.  
-🌎 I’m driven by curiosity, continuous learning, and building reliable data solutions that scale.  
+</div>
 
-**Previous Experience**
-- 🟢 **John Deere** – Cloud Data Engineer (AWS | IoT Telemetry | Predictive Analytics)  
-- 🔵 **CGI – Tufts Health Plan** – Data Engineer (Snowflake | Informatica IICS | Data Quality)  
-- 🟣 **Sandat Web Solution** – ETL Developer (Informatica | SQL Server | BI Dashboards)
+## 👩‍💻 About Me
 
----
+I'm a **Generative AI Engineer and Senior Data Engineer with several years of progressive experience**, evolving from enterprise ETL development and data warehousing into cloud data engineering, AI/ML integration, and Generative AI solutions. I earned my **Master's in Information Systems from Northeastern University (2025)**.
 
-### ⚙️ Core Expertise  
+My work spans production data pipelines, batch and streaming workloads, warehouse modeling, orchestration, and enterprise AI platforms across **healthcare, insurance, manufacturing/IoT, and nonprofit** domains. I focus on connecting **scalable data infrastructure with practical AI applications**, including retrieval-augmented generation (RAG), vector search, and agentic workflows.
 
-**Data Engineering & Cloud Platforms**
-- **AWS:** S3, Glue, Redshift, Lambda, EC2  
-- **Azure:** Data Factory, Synapse, Databricks, Data Lake  
-- **GCP:** BigQuery, Dataflow, Composer, Vertex AI  
-- **Warehousing:** Snowflake, BigQuery, Redshift  
-- **Orchestration:** Apache Airflow, dbt, Step Functions  
-- **Modeling:** Star Schema, SCDs, Dimensional Design  
+- 🔭 **Focus:** Enterprise RAG, agentic AI, cloud data engineering, and production-ready AI applications
+- ⚙️ **Enjoy building:** Automated pipelines, lakehouse architectures, analytical data models, and RAG applications
+- 🌱 **Exploring:** Agentic workflows, LLM evaluation, vector search, and scalable AI infrastructure
+- 🤝 **Open to:** Senior Data Engineer, Generative AI Engineer, AI Engineer, and ML Engineering opportunities
 
-**Programming & Automation**
-- Python (pandas, NumPy, PySpark, scikit-learn)  
-- SQL (PostgreSQL, Snowflake SQL, Redshift SQL)  
-- R, Shell Scripting, Java, C++  
-- CI/CD with GitHub Actions, Terraform, Docker (Infra as Code IaC)
+## 🛠️ Technical Toolkit
 
-**Machine Learning & AI**
-- Classical ML: LR, RF, SVM, XGBoost  
-- Deep Learning: CNN, RNN, LSTM  
-- Generative AI & LLMs: LangChain, LangGraph, RAG, Llama 2, OpenAI GPT-4  
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, SQL, PySpark, Scala, Java, Shell |
+| **Cloud** | AWS (S3, Glue, Redshift, Lambda, EMR, Kinesis), Azure (ADF, ADLS Gen2, Databricks, Synapse), GCP (BigQuery, Dataflow, Composer) |
+| **Data Engineering** | Apache Airflow, Informatica PowerCenter / IICS, dbt, Apache Spark, Kafka, ETL/ELT, batch & streaming pipelines |
+| **Warehouses & Databases** | Snowflake, Redshift, BigQuery, SQL Server, Oracle, PostgreSQL, MongoDB |
+| **AI / ML** | OpenAI API, LangChain, LangGraph, RAG, Pinecone, Milvus, PyTorch, scikit-learn |
+| **DevOps & Analytics** | Git, GitHub Actions, Docker, Terraform, Jenkins, Power BI, Tableau, Looker |
 
----
+## 🚀 Selected Engineering Impact
 
-### 🧠 Selected Projects  
+**Cloud Data Engineering — John Deere**
+- Developed data workflows supporting IoT telemetry from **500K+ connected machines** and processing **5M+ records per day**.
+- Optimized cloud processing workloads, reducing compute costs by **32%**.
+- Worked with AWS, Informatica IICS, PySpark, Redshift, and orchestration services.
 
-#### 🚗 [**Motor Vehicle Collisions Data Warehouse**](https://github.com/molavades/Motor-Vehicle-Collisions-Crashes-Data-Warehouse-2023)  
-Built a city-scale data warehouse with **Talend ETL**, **Snowflake**, and **Tableau**, enabling trend analysis of crash incidents and injury patterns.
+**Analytics & Data Platforms — Northeastern University**
+- Integrated data across **10+ systems**, improving reporting latency by **42%**.
+- Built automated data pipelines and reporting solutions supporting **120+ stakeholders**.
+- Worked with cloud data services, orchestration, analytical modeling, and BI dashboards.
 
-#### 🧠 [**Intelligent Job Search Assistant**](https://github.com/molavades/Intelligent-Job-Search-Assistant)  
-Developed an autonomous AI agent using **LangChain**, **GCP (BigQuery + Cloud Functions)**, and **Streamlit** to match job data in real time and automate application workflows.
+**Enterprise ETL — CGI**
+- Developed and maintained healthcare data pipelines using Informatica, SQL, and enterprise databases.
+- Supported ETL modernization and data quality processes in regulated environments.
 
-#### 🤖 [**3D Lane Prediction & Object Detection**](https://github.com/molavades/3D-Lane-Prediction-and-Object-Detection-2024)  
-Implemented CNN and Vision Transformer models to predict 3D lane topologies and detect objects from automotive camera data.
+## 📌 Featured Projects
 
-#### 💬 [**Multilingual Chatbot & Language Embeddings**](https://github.com/molavades/Multilingual-Language-Embeddings-and-Chatbot-Development)  
-Trained multilingual embeddings using **Word2Vec and RNNs**, achieving high semantic accuracy across five languages.
+> Add links to your actual repositories below, then pin the strongest four to six repositories on your GitHub profile.
 
----
+### 🤖 Intelligent Job Search Assistant
+Automated job-data ingestion and search workflow built with **Airflow, Snowflake, Python, Streamlit, FastAPI, and cloud storage**.
 
-### 🛠️ Tools & Technologies  
+### 🧠 Multimodal RAG Research Assistant
+A retrieval-augmented application for exploring research documents using **OpenAI, Gemini, LangChain, vector databases, FastAPI, and Streamlit**.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E34A6F?style=for-the-badge&logo=databricks&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+### 📊 Modern Analytics Pipeline
+An end-to-end analytics architecture using **BigQuery, dbt, and Power BI** for modeling and visualization.
 
----
+### 🏗️ Cloud Lakehouse & ML Pipeline
+An architecture combining **Azure Data Factory, ADLS, Databricks/PySpark, Snowflake, and Power BI**, with ML integration.
 
-### 🎓 Education  
+## 🧭 What I Bring
 
-- 🎓 **Northeastern University** – M.S. Information Systems (2023 – 2025)  
-- 🎓 **Shivaji University** – B.E. Mechanical Engineering  
+- **AI + data engineering:** Experience spanning enterprise ETL, warehouse modernization, cloud pipelines, and RAG-driven applications.
+- **Production mindset:** Observability, data quality, incremental processing, CI/CD, security, and cost/performance optimization.
+- **Cross-domain experience:** Healthcare, insurance, manufacturing/IoT, higher education, and nonprofit data ecosystems.
 
----
+## 🎓 Education
 
-### 🏁 Summary  
+**Northeastern University** — M.S. in Information Systems, 2025  
+Graduate Teaching Assistant — Designing Advanced Data Architectures for Business Intelligence
 
-I’m passionate about bridging the gap between **data engineering and applied AI**, building pipelines that are **reliable, explainable, and scalable**.  
-My projects and professional experience reflect a deep commitment to data quality, cloud architecture, and continuous learning.
+## 📫 Connect
 
-💬 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/snehal-molavade/) • [Email](mailto:molavade.s@northeastern.edu)
+I'm interested in building data platforms and AI applications that are scalable, maintainable, and useful in production.
+
+💼 [LinkedIn](https://www.linkedin.com/in/snehal-molavade/)
 
 ---
 
-⭐ *“Data Engineering isn’t just about moving data — it’s about moving organizations forward.”*
+<div align="center"><i>From trusted data pipelines to useful, production-ready AI.</i></div>
